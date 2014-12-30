@@ -13,10 +13,10 @@
 
 /Interface/AddOns*/*
 /Interface/AddOns/RayUI/core/test.lua
+/Interface/AddOns/Buffet/
+/Interface/AddOns/IntelliMount/
 !/Interface/AddOns/Bimbo/
-!/Interface/AddOns/Buffet/
 !/Interface/AddOns/Foglight/
-!/Interface/AddOns/IntelliMount/
 !/Interface/AddOns/Multishot/
 !/Interface/AddOns/ncShadow/
 !/Interface/AddOns/Postal/
